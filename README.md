@@ -1,3 +1,3 @@
 # flutter-small-projects.
 # Welcome.
-taking a break 
+taking a break.
